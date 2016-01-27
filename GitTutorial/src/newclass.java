@@ -3,7 +3,7 @@ public class newclass {
 
 	public static void main (String Agrs[])
 	{
-		System.out.print("Hello World");
+		System.out.print("Hello World!");
 		
 		
 		
